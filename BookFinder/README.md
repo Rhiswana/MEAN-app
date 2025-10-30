@@ -98,7 +98,7 @@ ng serve
 
 Deployedment links:
 Frontend:https://stackblitz.com/~/github.com/Rhiswana/MEAN-app
-Backend:https://stackblitz.com/~/github.com/Rhiswana/MEAN-app
+Backend: https://msktw3-8000.csb.app/api/books
 🧑‍💻 Author
 
 Rhiswana Begam
