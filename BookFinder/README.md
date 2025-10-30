@@ -95,6 +95,10 @@ npm install
 ng serve
 ![alt text](images/image.png)
 ![alt text](images/image-1.png)
+
+Deployedment links:
+Frontend:https://stackblitz.com/~/github.com/Rhiswana/MEAN-app
+Backend:https://stackblitz.com/~/github.com/Rhiswana/MEAN-app
 🧑‍💻 Author
 
 Rhiswana Begam
