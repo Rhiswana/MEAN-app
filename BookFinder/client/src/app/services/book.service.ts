@@ -4,7 +4,8 @@ import { Observable } from 'rxjs';
 
 @Injectable({ providedIn: 'root' })
 export class BookService {
-  private apiUrl = 'http://localhost:8000/api/books';
+ private apiUrl = 'https://bookfinder-pnyd.onrender.com/api/books';
+
 
   constructor(private http: HttpClient) {}
 
