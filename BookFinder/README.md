@@ -96,9 +96,13 @@ ng serve
 ![alt text](images/image.png)
 ![alt text](images/image-1.png)
 
-Deployedment links:
+Code:
 Frontend:https://stackblitz.com/~/github.com/Rhiswana/MEAN-app
 Backend: https://msktw3-8000.csb.app/api/books
+Deployement link:
+   
+      https://mean-app-6c39.onrender.com/
+
 video:https://www.loom.com/share/0ae9ed7ce3fb47ea910636c3e8d7567d?t=230
 🧑‍💻 Author
 
